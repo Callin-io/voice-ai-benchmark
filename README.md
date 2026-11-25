@@ -4,8 +4,6 @@ A reproducible test of AI phone-agent platforms on **real phone calls** in non-E
 
 This repository is a standalone copy of the method, prompts, scenarios and measurement scripts published in [`Callin-io/callin-agents`](https://github.com/Callin-io/callin-agents/tree/main/benchmark). Run by [Callin.io](https://callin.io). If Callin.io loses a metric, the result is published anyway.
 
-**This repo ships the method, not a results table.** A results page at `https://callin.io/benchmark` was mentioned in the original notes; that URL was not live when this copy was prepared. Do not invent scores. When results are published, they should be dated, with method version, example audio, known limits, and a link back here.
-
 Homepage: [callin.io](https://callin.io)
 
 ## Platforms
