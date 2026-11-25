@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+recordings/
+transcripts/
+results/*.csv
+.DS_Store
